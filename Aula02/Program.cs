@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 namespace Aula02;
 
 public class Program {
@@ -22,3 +23,6 @@ public class Program {
     }
 }
 
+=======
+﻿
+>>>>>>> c45211b (Adicionando Readme)
