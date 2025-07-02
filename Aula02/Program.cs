@@ -1,4 +1,4 @@
-﻿namespace Aula02;
+namespace Aula02;
 
 public class Program {
     public static void Main()
@@ -21,6 +21,4 @@ public class Program {
 
     }
 }
-
-
 
