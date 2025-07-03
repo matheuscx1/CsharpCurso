@@ -15,7 +15,7 @@ namespace Aula06
             else
             {
                 Console.WriteLine("O número {0} é Ímpar.", number);
-            }                                         
+            }
 
         }
     }
