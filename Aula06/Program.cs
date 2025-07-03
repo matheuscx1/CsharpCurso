@@ -15,7 +15,11 @@ namespace Aula06
             else
             {
                 Console.WriteLine("O número {0} é Ímpar.", number);
+<<<<<<< HEAD
             }
+=======
+            }                                         
+>>>>>>> 596bf41 (If e else)
 
         }
     }
