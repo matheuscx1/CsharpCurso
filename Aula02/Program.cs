@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 namespace Aula02;
+=======
+﻿namespace Aula02;
+>>>>>>> 048801b (Adicionando novas aulas)
 
 public class Program {
     public static void Main()
@@ -23,6 +27,11 @@ public class Program {
     }
 }
 
+<<<<<<< HEAD
 =======
 ﻿
 >>>>>>> c45211b (Adicionando Readme)
+=======
+
+
+>>>>>>> 048801b (Adicionando novas aulas)
