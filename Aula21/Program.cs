@@ -55,14 +55,6 @@ public class Program
             Console.WriteLine($"Id: {cake.Id}, Nome: {cake.Name}, Description: {cake.Description}, Price: {cake.Price}, isfilled: {cake.isfilled}");
         }
 
-
-
-
-
-
-
-
-
         Console.ReadLine();
     }
 }
